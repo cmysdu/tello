@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tello"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\h264decoder\;CMake Files\src\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\lib64\;CMake Files\..\..\..\..\usr\lib64\cmake\;CMake Files\..\..\..\..\usr\lib64\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="h264decoder">
+				<Option output="/home/cenmmy/CLionProjects/h264/src/lib/libh264decoder.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder/Makefile&quot;  VERBOSE=1 h264decoder"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="h264decoder/fast">
+				<Option output="/home/cenmmy/CLionProjects/h264/src/lib/libh264decoder.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder/Makefile&quot;  VERBOSE=1 h264decoder/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/h264decoder/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="h264">
+				<Option output="/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/h264" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/cenmmy/CLionProjects/h264/src/include"/>
+					<Add directory="/usr/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 h264"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="h264/fast">
+				<Option output="/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/h264" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cenmmy/CLionProjects/h264/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/cenmmy/CLionProjects/h264/src/include"/>
+					<Add directory="/usr/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 h264/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cenmmy/CLionProjects/h264/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/h264decoder/h264decoder.cpp">
+			<Option target="h264decoder"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/h264decoder/h264decoder.hpp">
+			<Option target="h264decoder"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/src/cpp/CascadeDetectorAdapter/CascadeDetectorAdapter.cpp">
+			<Option target="h264"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/src/cpp/RemoteController/RemoteController.cpp">
+			<Option target="h264"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/src/main.cpp">
+			<Option target="h264"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/h264decoder/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\h264decoder\"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/../../../../usr/lib64/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/../../../../usr/lib64/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/../../../../usr/lib64/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/cenmmy/CLionProjects/h264/../../../../usr/lib64/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

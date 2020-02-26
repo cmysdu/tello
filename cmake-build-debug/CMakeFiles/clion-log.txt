@@ -1,0 +1,6 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/cenmmy/CLionProjects/h264
+MSG/home/cenmmy/CLionProjects/h264/src/cpp/RemoteController//RemoteController.cpp
+MSG/home/cenmmy/CLionProjects/h264
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cenmmy/CLionProjects/h264/cmake-build-debug

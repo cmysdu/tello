@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tello" targetName="h264decoder" />
+      <config projectName="tello" targetName="h264" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dd37e50-8426-4ed7-be0e-daf14fbae334" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="lEwJRJBf" />
+  </component>
+  <component name="ProjectId" id="1WFiKLvVCe3Xw2LOXEvN9AdF8MG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.h264">
+    <configuration name="h264" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tello" TARGET_NAME="h264" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tello" RUN_TARGET_NAME="h264">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h264decoder" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tello" TARGET_NAME="h264decoder" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.h264" />
+      <item itemvalue="CMake Application.h264decoder" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dd37e50-8426-4ed7-be0e-daf14fbae334" name="Default Changelist" comment="" />
+      <created>1578751678133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578751678133</updated>
+      <workItem from="1578751679944" duration="897000" />
+      <workItem from="1578794210214" duration="111000" />
+      <workItem from="1578825642492" duration="10032000" />
+      <workItem from="1578889620551" duration="4259000" />
+      <workItem from="1578899899443" duration="4191000" />
+      <workItem from="1578905605282" duration="2436000" />
+      <workItem from="1579261379604" duration="211000" />
+      <workItem from="1580005278903" duration="888000" />
+      <workItem from="1580010730330" duration="601000" />
+      <workItem from="1582032033573" duration="261000" />
+      <workItem from="1582370632780" duration="4233000" />
+      <workItem from="1582514705006" duration="168000" />
+      <workItem from="1582518163169" duration="28000" />
+      <workItem from="1582518404245" duration="632000" />
+      <workItem from="1582538830850" duration="16122000" />
+      <workItem from="1582592034896" duration="1359000" />
+      <workItem from="1582593908101" duration="801000" />
+      <workItem from="1582594996357" duration="1983000" />
+      <workItem from="1582602418505" duration="5278000" />
+      <workItem from="1582617902485" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="891" y="476" width="771" height="452" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1578899969400">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="891" y="476" width="771" height="452" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2560.1403@0.0.2560.1403" timestamp="1578899969400" />
+    <state x="875" y="304" width="803" height="797" key="#h264decoder" timestamp="1578904834870">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="875" y="304" width="803" height="797" key="#h264decoder/0.0.2560.1403@0.0.2560.1403" timestamp="1578904834870" />
+    <state x="643" y="170" width="628" height="704" key="FileChooserDialogImpl" timestamp="1582518189547">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="643" y="170" width="628" height="704" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1582518189547" />
+    <state width="1858" height="249" key="GridCell.Tab.0.bottom" timestamp="1582610376717">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1858" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1582610376717" />
+    <state width="2498" height="368" key="GridCell.Tab.0.bottom/0.0.2560.1403@0.0.2560.1403" timestamp="1578914142532" />
+    <state width="1858" height="249" key="GridCell.Tab.0.center" timestamp="1582610376717">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1858" height="249" key="GridCell.Tab.0.center/0.0.1920.1043@0.0.1920.1043" timestamp="1582610376717" />
+    <state width="2498" height="368" key="GridCell.Tab.0.center/0.0.2560.1403@0.0.2560.1403" timestamp="1578914142528" />
+    <state width="1858" height="249" key="GridCell.Tab.0.left" timestamp="1582610376717">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1858" height="249" key="GridCell.Tab.0.left/0.0.1920.1043@0.0.1920.1043" timestamp="1582610376717" />
+    <state width="2498" height="368" key="GridCell.Tab.0.left/0.0.2560.1403@0.0.2560.1403" timestamp="1578914142528" />
+    <state width="1858" height="249" key="GridCell.Tab.0.right" timestamp="1582610376717">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1858" height="249" key="GridCell.Tab.0.right/0.0.1920.1043@0.0.1920.1043" timestamp="1582610376717" />
+    <state width="2498" height="368" key="GridCell.Tab.0.right/0.0.2560.1403@0.0.2560.1403" timestamp="1578914142531" />
+    <state width="1858" height="312" key="GridCell.Tab.1.bottom" timestamp="1582593394189">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1858" height="312" key="GridCell.Tab.1.bottom/0.0.1920.1043@0.0.1920.1043" timestamp="1582593394189" />
+    <state width="2498" height="456" key="GridCell.Tab.1.bottom/0.0.2560.1403@0.0.2560.1403" timestamp="1578895212788" />
+    <state width="1858" height="312" key="GridCell.Tab.1.center" timestamp="1582593394189">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1858" height="312" key="GridCell.Tab.1.center/0.0.1920.1043@0.0.1920.1043" timestamp="1582593394189" />
+    <state width="2498" height="456" key="GridCell.Tab.1.center/0.0.2560.1403@0.0.2560.1403" timestamp="1578895212788" />
+    <state width="1858" height="312" key="GridCell.Tab.1.left" timestamp="1582593394189">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1858" height="312" key="GridCell.Tab.1.left/0.0.1920.1043@0.0.1920.1043" timestamp="1582593394189" />
+    <state width="2498" height="456" key="GridCell.Tab.1.left/0.0.2560.1403@0.0.2560.1403" timestamp="1578895212788" />
+    <state width="1858" height="312" key="GridCell.Tab.1.right" timestamp="1582593394189">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="1858" height="312" key="GridCell.Tab.1.right/0.0.1920.1043@0.0.1920.1043" timestamp="1582593394189" />
+    <state width="2498" height="456" key="GridCell.Tab.1.right/0.0.2560.1403@0.0.2560.1403" timestamp="1578895212788" />
+    <state x="262" y="0" key="SettingsEditor" timestamp="1582539659313">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="262" y="0" key="SettingsEditor/0.0.1920.1043@0.0.1920.1043" timestamp="1582539659313" />
+    <state x="-94" y="397" width="2364" height="1205" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1578904427123">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="-94" y="397" width="2364" height="1205" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2560.1403@0.0.2560.1403" timestamp="1578904427123" />
+    <state x="566" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1582617903017">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="566" y="336" key="com.intellij.ide.util.TipDialog/0.0.1920.1043@0.0.1920.1043" timestamp="1582617903017" />
+    <state x="755" y="452" key="com.intellij.ide.util.TipDialog/0.0.2560.1403@0.0.2560.1403" timestamp="1578905604960" />
+    <state x="572" y="112" width="699" height="931" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582596109667">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="572" y="112" width="699" height="931" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1043@0.0.1920.1043" timestamp="1582596109667" />
+    <state x="763" y="205" width="1027" height="995" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1403@0.0.2560.1403" timestamp="1578905514655" />
+    <state x="444" y="0" width="1031" height="1043" key="find.popup" timestamp="1582596052181">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="444" y="0" width="1031" height="1043" key="find.popup/0.0.1920.1043@0.0.1920.1043" timestamp="1582596052181" />
+  </component>
+</project>

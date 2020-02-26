@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cenmmy/CLionProjects/h264/h264decoder/h264decoder.cpp
+libavcodec/avcodec.h
+-
+libavutil/avutil.h
+-
+libavutil/mem.h
+-
+libswscale/swscale.h
+-
+h264decoder.hpp
+/home/cenmmy/CLionProjects/h264/h264decoder/h264decoder.hpp
+utility
+-
+
+/home/cenmmy/CLionProjects/h264/h264decoder/h264decoder.hpp
+cstdlib
+-
+stdexcept
+-
+utility
+-
+
